@@ -1,7 +1,7 @@
-# OCTA CTRL — Web Editor (build)
+# OCTA CTRL web editor
 
-Compiled build of the OCTA CTRL tools editor, served by GitHub Pages at https://typealob.github.io/Octa_Ctrl/
+Built from [typealob/octa_control_macropad](https://github.com/typealob/octa_control_macropad), branch `esp32-s3-port`, folder `web-editor/`, commit `26e622d`.
 
-Source: `typealob/octa_control_macropad`, branch `esp32-s3-port`, folder `web-editor/` (commit 0dfa43a). Do not edit these files by hand; rebuild from source.
+Live: https://typealob.github.io/Octa_Ctrl/
 
-Requires Chrome or Edge (Web Serial).
+Chrome/Edge only (Web Serial).
